@@ -8,7 +8,15 @@ File Name: Figure1_Museum_growth_trends_2010-2019.txt
 
 Data on temporal patterns of cryogenic collection growth for five major natural history collecions between 2010 and 2019: American Museum of Natural History (AMNH), Louisiana State University Museum of Natural Science (LSUMZ), Harvard University Museum of Comparative Zoology (MCZ), University of New Mexico Museum of Southwest Biology (MSB), and University of California Museum of Vertebrate Zoology (MVZ). All counts only reflect newly collected and catalogued samples with an associated voucher specimen but each of these collections also has significant numbers of samples with no associated voucher specimens and previously collected samples that have been more recently added to cryogenic collections. For examples, MSB has collected and cryopreserved 8,886 fish genomic samples between 2010 and 2019, but none had associated voucher specimens.
 
-Both annual and cumulative counts of catalogued records per collection are available in a [tab-delimited text file](https://raw.githubusercontent.com/edwards-bird-lab/museum-genomics/main/Figure1_Museum_growth_trends_2010-2019.txt). The fields are the institution (see codes above), the collection, the year, the annual number of catalogued records, and the cumulative number of catalogued records per collection and institution.
+Both annual and cumulative counts of catalogued records per collection are available in a [tab-delimited text file](https://raw.githubusercontent.com/edwards-bird-lab/museum-genomics/main/Figure1_Museum_growth_trends_2010-2019.txt). The fields are the institution (see codes above), the collection, the year, the annual number of catalogued records, and the cumulative sum per year of catalogued records per collection and institution (see following example).
+
+Institution Collection  Year  Annual_count  Collection_running_count
+MCZ Ornithology 2010  10  10
+MCZ Ornithology 2011  10  20
+MCZ Ornithology 2012  10  30
+MCZ Herpetology 2010  10  10
+MCZ Herpetology 2011  10  20
+MCZ Herpetology 2012  10  30
 
 ## Figure 2. Empirical Patterns of Genome Assembly Contiguity for Avian Genome Assemblies Based on Varying Tissue Type and Preservation Protocol
 
