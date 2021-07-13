@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/{github_id}.svg)](https://zenodo.org/badge/latestdoi/{github_id})
+[![DOI](https://zenodo.org/badge/57410401.svg)](https://zenodo.org/badge/latestdoi/57410401)
 
 ## Introduction
 
