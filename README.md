@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/{github_id}.svg)](https://zenodo.org/badge/latestdoi/{github_id})
+
 ## Introduction
 
 Welcome to the data repository for Card et al. Museum Genomics. In Press. *Annual Review of Genetics*. Please see below for information on how to retrieve data files associated with this article.
