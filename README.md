@@ -2,15 +2,31 @@
 
 ## Introduction
 
-Welcome to the data repository for Card et al. [Museum Genomics](https://doi.org/10.1146/annurev-genet-071719-020506). 2021. *Annual Review of Genetics 55*: 633-659. [https://doi.org/10.1146/annurev-genet-071719-020506](https://doi.org/10.1146/annurev-genet-071719-020506). Please see below for information on how to interact with this website and data repository and retrieve data files associated with this article.
+Welcome to the webpage accompanying Card et al. [Museum Genomics](https://doi.org/10.1146/annurev-genet-071719-020506). 2021. *Annual Review of Genetics 55*: 633-659. [https://doi.org/10.1146/annurev-genet-071719-020506](https://doi.org/10.1146/annurev-genet-071719-020506). This webpage is maintained by [Daren Card](https://darencard.net). 
+
+While this website was initially created to archive data files associated with this review, I am also experimenting with ways of extending its utility. Namely, I hypothesize that enabling ways in which the museum genomics community can interact with this website in a dynamic manner may yield dividends for this research community. Most data repositories are static in nature and only allow a one-way flow of information from the authors to the audience. I am aiming to make this website dynamic and bidirectional in an open way by taking advantages of the version control, collaboration, and hosting capabilities of Git and GitHub. The initial, raw data repository will always be available through the badge link at the top of this page and is also preserved in the commit history of this repository. However, I am also experimenting with adding new features to the webpage that foster interaction among museum genomics researchers, thus creating more of a "living" supplement for the research article. I welcome feedback on these ideas and their implementation. 
+
+Please see below for information on how to interact with this webpage and retrieve data files associated with this article.
 
 ## Interacting with this website/repository
 
+#### Museum Genomics Researcher Forum
+
+With any research article, it is always possible to contact the corresponding author to ask questions, provide feedback, or commence research discussions. However, these interactions are often hidden from public view. This is certainly appropriate for some interactions, but in other cases, it may make sense to have a public forum to facilitate interactions between the authors and audience and among community members. It seems horribly inefficient for an author to respond to the same question from many readers through email, for example, when viable alternatives are well established. In an effort to demonstrate this manner of interaction, I am leveraging GitHub Issues. Each GitHub repository, including the one hosting this webpage and the archived data files, has an associated Issue forum, which is normally used to support software by allowing users to report problems or request features. I am co-opting this functionality to make a simple forum where anyone can come to ask the author questions, provide feedback, or initiate other types of research interactions.
+
+Please visit the [Museum Genomics Researcher Forum](https://github.com/edwards-bird-lab/museum-genomics/issues) and interact with other museum genomics researchers through existing discussion threads or submit a [new forum post](https://github.com/edwards-bird-lab/museum-genomics/issues/new) to start a new thread.
+
 #### Museum Genomics DOI Form
 
-If you publish research in museum genomics, please also submit the corresponding DOI (digital object identifier) using the form below to help keep track of emerging research in this field.
+If you publish research in museum genomics, please also submit the corresponding DOI (digital object identifier) using the form below to help keep track of emerging research in this field. My goal with this feature is to facilitate the collection and curation of new literature within museum genomics so that there is a central location where interested parties can retrieve a relevant bibliography. Ideally, through community engagement and shared effort, a thorough body of relevant literature will be built, which may prove useful for future reviews of this young and growing research field. If we collect and curate physical natural history materials, why not do the same with the peer-reviewed literature that we create? I challenge other museum scientists who work with and publish genomics data to continue long traditions of contributing to community collections by submitting their work using the following form.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfTAK3YdDZp33oym3lChU2kezQNqv-3HsBYxdfmh4Sa6Ua_IQ/viewform?embedded=true" width="640" height="603" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+**In progress**: If interest materializes and other researchers begin adding DOIs for relevant literature, I will work to automate the collation of a bibliography based on user submissions. I will share this bibliography through this webpage so that others can quickly and easily engage with peer-reviewed literature in this field.
+
+#### Museum Genomics Twitter Bot
+
+**In progress**: The plan here is to create an automated Twitter bot that will retweet relevant research based on keywords or hashtags, such as #MuseumGenomics. Depending on engagement, I may share a digest of relevant tweets using this webpage, which is a great way to highlight relevant work and source literature that may be of interest to the research community. Please check back for more details once this Twitter bot is created.
 
 ## Data files
 
