@@ -22,13 +22,15 @@ If you publish research in museum genomics, please also submit the corresponding
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfTAK3YdDZp33oym3lChU2kezQNqv-3HsBYxdfmh4Sa6Ua_IQ/viewform?embedded=true" width="640" height="603" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-**In progress**: If interest materializes and other researchers begin adding DOIs for relevant literature, I will work to automate the collation of a bibliography based on user submissions. I will share this bibliography through this webpage so that others can quickly and easily engage with peer-reviewed literature in this field.
+**In progress**: If interest materializes and other researchers begin adding DOIs for relevant literature, I will work to automate the collation of a bibliography based on user submissions. I will share this bibliography through this webpage so that others can quickly and easily engage with peer-reviewed literature in this field. For now, you can view a running list of the submitted DOIs at [this Google Sheet](https://docs.google.com/spreadsheets/d/1hLBH_Qg5S8ygZjBP9h1dxILar2_rbKJy28xsu1NC92s/edit?usp=sharing).
 
 #### Museum Genomics Twitter Bot
 
 **In progress**: The plan here is to create an automated Twitter bot that will retweet relevant research based on keywords or hashtags, such as #MuseumGenomics. Depending on engagement, I may share a digest of relevant tweets using this webpage, which is a great way to highlight relevant work and source literature that may be of interest to the research community. Please check back for more details once this Twitter bot is created.
 
 ## Data files
+
+The raw data associated with several figures is described and linked below. An archive of this data repository has been created through Zenodo with an accompanying DOI, which can be accessed at [https://doi.org/10.5281/zenodo.5093841](https://doi.org/10.5281/zenodo.5093841).
 
 #### Figure 1. Historical Growth of Major Natural History Museum Cryogenic Collections (2010-2019)
 
