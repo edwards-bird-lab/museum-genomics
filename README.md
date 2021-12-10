@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the data repository for Card et al. Museum Genomics. In Press. *Annual Review of Genetics*. Please see below for information on how to interact with this website and data repository and retrieve data files associated with this article.
+Welcome to the data repository for Card et al. [Museum Genomics](https://doi.org/10.1146/annurev-genet-071719-020506). 2021. *Annual Review of Genetics 55*: 633-659. [https://doi.org/10.1146/annurev-genet-071719-020506](https://doi.org/10.1146/annurev-genet-071719-020506). Please see below for information on how to interact with this website and data repository and retrieve data files associated with this article.
 
 ## Interacting with this website/repository
 
