@@ -2,9 +2,19 @@
 
 ## Introduction
 
-Welcome to the data repository for Card et al. Museum Genomics. In Press. *Annual Review of Genetics*. Please see below for information on how to retrieve data files associated with this article.
+Welcome to the data repository for Card et al. Museum Genomics. In Press. *Annual Review of Genetics*. Please see below for information on how to interact with this website and data repository and retrieve data files associated with this article.
 
-## Figure 1. Historical Growth of Major Natural History Museum Cryogenic Collections (2010-2019)
+## Interacting with this website/repository
+
+#### Museum Genomics DOI Form
+
+If you publish research in museum genomics, please also submit the corresponding DOI (digital object identifier) using the form below to help keep track of emerging research in this field.
+
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAR_lgCZUM0laVzBKT1hYVVJQVzlCSDhWNjNYVDRDMi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+## Data files
+
+#### Figure 1. Historical Growth of Major Natural History Museum Cryogenic Collections (2010-2019)
 
 File Name: Figure1_Museum_growth_trends_2010-2019.txt
 
@@ -24,7 +34,7 @@ Both annual and cumulative counts of catalogued records per collection are avail
 | AMNH        | Herpetology | 2011 | 10           | 20                       |
 | AMNH        | Herpetology | 2012 | 10           | 30                       |
 
-## Figure 2. Empirical Patterns of Genome Assembly Contiguity for Avian Genome Assemblies Based on Varying Tissue Type and Preservation Protocol
+#### Figure 2. Empirical Patterns of Genome Assembly Contiguity for Avian Genome Assemblies Based on Varying Tissue Type and Preservation Protocol
 
 File Name: Figure2_Edwards_Lab_Genome_Quality_Tissue_Preservation.txt
 
@@ -32,7 +42,7 @@ The Edwards laboratory at Harvard University has gathered internal data on genom
 
 For each genome in this dataset, the scientific name, common name, technology utilized (10x Genomics), source of tissue and preservation mode, genome size estimate, approximate sequencing coverage, and contig and scaffold contiguity metrics (N50; in Mb) are available in a [tab-delimited text file](https://raw.githubusercontent.com/edwards-bird-lab/museum-genomics/main/Figure2_Edwards_Lab_Genome_Quality_Tissue_Preservation.txt).
 
-## Figure 5. Overview of Holdings of Next-Generation, RNA-ready Genomic Samples for Diverse Avian Species in the Museum of Comparative Zoology at Harvard University
+#### Figure 5. Overview of Holdings of Next-Generation, RNA-ready Genomic Samples for Diverse Avian Species in the Museum of Comparative Zoology at Harvard University
 
 File Names: Figure5_MCZ_RNAquality_Tissues.txt and Figure5_Jetz2012_HackettBackbone_Phylogeny.tre
 
