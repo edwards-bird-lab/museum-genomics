@@ -1,5 +1,15 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5093841.svg)](https://doi.org/10.5281/zenodo.5093841)
 
+Table of Contents
+=================
+
+   * [Welcome to the Museum Genomics Community!](#welcome-to-the-museum-genomics-community)
+   * [Discuss Museum Genomics with other Researchers](#discuss-museum-genomics-with-other-researchers)
+   * [Contribute Relevant Museum Genomics Literature to the Community](#contribute-relevant-museum-genomics-literature-to-the-community)
+   * [Follow Museum Genomics Research on Twitter](#follow-museum-genomics-research-on-twitter)
+   * [Provide Feedback and Suggestions for Community Engagement](#provide-feedback-and-suggestions-for-community-engagement)
+   * [Just Give me the Data Files!](#just-give-me-the-data-files)
+
 ## Welcome to the Museum Genomics Community!
 
 Welcome to the webpage accompanying Card et al. [Museum Genomics](https://doi.org/10.1146/annurev-genet-071719-020506). 2021. *Annual Review of Genetics 55*: 633-659. [https://doi.org/10.1146/annurev-genet-071719-020506](https://doi.org/10.1146/annurev-genet-071719-020506). This webpage is maintained by [Daren Card](https://darencard.net). 
