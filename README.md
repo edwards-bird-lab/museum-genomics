@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5093841.svg)](https://doi.org/10.5281/zenodo.5093841)
 
-## Introduction
+## Welcome to the Museum Genomics Community!
 
 Welcome to the webpage accompanying Card et al. [Museum Genomics](https://doi.org/10.1146/annurev-genet-071719-020506). 2021. *Annual Review of Genetics 55*: 633-659. [https://doi.org/10.1146/annurev-genet-071719-020506](https://doi.org/10.1146/annurev-genet-071719-020506). This webpage is maintained by [Daren Card](https://darencard.net). 
 
@@ -8,15 +8,13 @@ While this website was initially created to archive data files associated with t
 
 Please see below for information on how to interact with this webpage and retrieve data files associated with this article.
 
-## Interacting with this website/repository
-
-#### Museum Genomics Researcher Forum
+## Discuss Museum Genomics with other Researchers
 
 With any research article, it is always possible to contact the corresponding author to ask questions, provide feedback, or commence research discussions. However, these interactions are often hidden from public view. This is certainly appropriate for some correspondance, but in other cases, it may make sense to have a public forum to facilitate interactions between the authors and audience and among community members. It seems horribly inefficient for an author to respond to the same question from many readers through email, for example, when viable alternatives are well established. In an effort to demonstrate this manner of discussion, I am leveraging GitHub Issues. Each GitHub repository, including [the one hosting this webpage and the archived data files](https://github.com/edwards-bird-lab/museum-genomics), has an associated Issue forum, which is normally used to support software by allowing users to report problems or request features. I am co-opting this functionality to make a simple forum where anyone can come to ask the author questions, provide feedback, or initiate other types of research interactions.
 
 Please visit the [Museum Genomics Researcher Forum](https://github.com/edwards-bird-lab/museum-genomics/issues) and interact with other museum genomics researchers through existing discussion threads or submit a [new forum post](https://github.com/edwards-bird-lab/museum-genomics/issues/new) to start a new thread.
 
-#### Museum Genomics DOI Form
+## Contribute Relevant Museum Genomics Literature to the Community
 
 If you publish research in museum genomics, please also submit the corresponding DOI (digital object identifier) using the form below to help keep track of emerging research in this field. My goal with this feature is to facilitate the collection and curation of new literature within museum genomics so that there is a central location where interested parties can retrieve a relevant bibliography. Ideally, through community engagement and shared effort, a thorough body of relevant literature will be built, which may prove useful for future reviews of this young and growing research field. If we collect and curate physical natural history materials, why not do the same with the peer-reviewed literature that we create? I encourage other museum scientists who work with and publish genomics data to continue long traditions of contributing to community collections by submitting their work using the following form.
 
@@ -24,7 +22,7 @@ If you publish research in museum genomics, please also submit the corresponding
 
 **In progress**: If interest materializes and other researchers begin adding DOIs for relevant literature, I will work to automate the collation of a bibliography based on user submissions. I will share this bibliography through this webpage so that others can quickly and easily engage with peer-reviewed literature in this field. For now, you can view a running list of the submitted DOIs at [this Google Sheet](https://docs.google.com/spreadsheets/d/1hLBH_Qg5S8ygZjBP9h1dxILar2_rbKJy28xsu1NC92s/edit?usp=sharing).
 
-#### Museum Genomics Twitter Bot
+## Follow Museum Genomics Research on Twitter
 
 I have created an automated [Twitter bot](https://twitter.com/MuseumGenomics) that will retweet and like relevant research based on the keywords "museum genomics" or the hashtag #MuseumGenomics. Users can follow this bot/account to stay up to date on research and other content that uses these keywords or hashtag. Researchers are also welcomed to tag relevant research products with the #MuseumGenomics hashtag and it will be retweeted and liked. I see this bot as a nice supplement to the DOI collection form described above for collecting relevant research and it also facilitates more natural interactions between scientists in this community using a popular social media platform. See the following digest for Twitter content recently highlighted by the Museum Genomics bot.
 
@@ -32,11 +30,11 @@ I have created an automated [Twitter bot](https://twitter.com/MuseumGenomics) th
 
 Note: Details on the Twitter bot used for this purpose and how it is run can be found at [https://github.com/anniedotexe/Twitter-Retweet-Bot](https://github.com/anniedotexe/Twitter-Retweet-Bot).
 
-#### Other Ideas?
+## Other Ideas?
 
 Do you have other ideas for how this webpage could engage audience members in the field of museum genomics or broader biological research? I would love to hear them! Or are you passionate about science communication and wish to discuss these experiments? Please reach out to [Daren](https://darencard.net)! I have already created a [Museum Genomics Researcher Forum thread](https://github.com/edwards-bird-lab/museum-genomics/issues/2) to solicit feedback and encourage this dialogue. You can also create your own new discussion thread.
 
-## Data files
+## Just Give me the Data Files!
 
 The raw data associated with several figures is described and linked below. An archive of this data repository has been created through Zenodo with an accompanying DOI, which can be accessed at [https://doi.org/10.5281/zenodo.5093841](https://doi.org/10.5281/zenodo.5093841).
 
