@@ -30,7 +30,7 @@ I have created an automated [Twitter bot](https://twitter.com/MuseumGenomics) th
 
 Note: Details on the Twitter bot used for this purpose and how it is run can be found at [https://github.com/anniedotexe/Twitter-Retweet-Bot](https://github.com/anniedotexe/Twitter-Retweet-Bot).
 
-## Other Ideas?
+## Provide Feedback and Suggestions for Community Engagement
 
 Do you have other ideas for how this webpage could engage audience members in the field of museum genomics or broader biological research? I would love to hear them! Or are you passionate about science communication and wish to discuss these experiments? Please reach out to [Daren](https://darencard.net)! I have already created a [Museum Genomics Researcher Forum thread](https://github.com/edwards-bird-lab/museum-genomics/issues/2) to solicit feedback and encourage this dialogue. You can also create your own new discussion thread.
 
