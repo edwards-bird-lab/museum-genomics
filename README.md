@@ -16,6 +16,8 @@ Welcome to the webpage accompanying Card et al. [Museum Genomics](https://doi.or
 
 While this website was initially created to archive data files associated with this review, I am also experimenting with ways of extending its utility. Namely, I hypothesize that enabling ways in which the museum genomics community can interact with this website in a dynamic manner may yield dividends for this research community. Most data repositories are static in nature and only allow a one-way flow of information from the authors to the audience. I am aiming to make this website dynamic and bidirectional in an open way by taking advantage of the version control, collaboration, and hosting capabilities of Git and GitHub. The initial, raw data repository will always be available through the badge link at the top of this page and is also preserved in the commit history of this repository (see [commit bb39d07](https://github.com/edwards-bird-lab/museum-genomics/tree/bb39d07ba384a110abe29776645023ddadb3a5d6) or [release v1.0](https://github.com/edwards-bird-lab/museum-genomics/releases/tag/v1.0)). However, I am also experimenting with adding new features to the webpage that foster interaction among museum genomics researchers, thus creating more of a "living" supplement for the research article. I welcome feedback on these ideas and their implementation. 
 
+Finally, please note the [Code of Conduct](https://github.com/edwards-bird-lab/museum-genomics/blob/main/CODE_OF_CONDUCT.md) that governs the interactions that take place in this community and be kind and respectful to others!
+
 Please see below for information on how to interact with this webpage and retrieve data files associated with this article.
 
 ## Discuss Museum Genomics with other Researchers
