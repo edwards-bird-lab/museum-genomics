@@ -6,6 +6,7 @@ Table of Contents
    * [Welcome to the Museum Genomics Community!](#welcome-to-the-museum-genomics-community)
    * [Discuss Museum Genomics with other Researchers](#discuss-museum-genomics-with-other-researchers)
    * [Contribute Relevant Museum Genomics Literature to the Community](#contribute-relevant-museum-genomics-literature-to-the-community)
+   * [Ensure Contributions to Museum Genomics Follow Best Practices](#ensure-contributions-to-museum-genomics-follow-best-practices)
    * [Follow Museum Genomics Research on Twitter](#follow-museum-genomics-research-on-twitter)
    * [Provide Feedback and Suggestions for Community Engagement](#provide-feedback-and-suggestions-for-community-engagement)
    * [Just Give me the Data Files!](#just-give-me-the-data-files)
@@ -33,6 +34,10 @@ If you publish research in museum genomics, please also submit the corresponding
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfTAK3YdDZp33oym3lChU2kezQNqv-3HsBYxdfmh4Sa6Ua_IQ/viewform?embedded=true" width="640" height="603" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 **In progress**: If interest materializes and other researchers begin adding DOIs for relevant literature, I will work to automate the collation of a bibliography based on user submissions. I will share this bibliography through this webpage so that others can quickly and easily engage with peer-reviewed literature in this field. For now, you can view a running list of the submitted DOIs at [this Google Sheet](https://docs.google.com/spreadsheets/d/1hLBH_Qg5S8ygZjBP9h1dxILar2_rbKJy28xsu1NC92s/edit?usp=sharing).
+
+## Ensure Contributions to Museum Genomics Follow Best Practices
+
+The most important action any museum genomicists can take is to properly document and share the list of specimens or samples used in a study! Often this list is included as a supplementary table and is vital for allowing readers and other scientists to contextualize or replicate research. To assist researchers in their efforts to document this important information, we have created a downloadable [museum genomics sample table template](https://github.com/edwards-bird-lab/museum-genomics/raw/main/museum_genomics_sample_table_template_v2022-06-08.xlsx). Hover over the table headers for notes about the information that should be included in each field and the form that information should take. The fields in this template represent the minimum amount of sample information that should be provided in any study, but additional columns with information can always be included. Field headers can also be renamed as needed.
 
 ## Follow Museum Genomics Research on Twitter
 
